@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166.25" height="22.5" viewBox="0 0 133 18">
+  <defs>
+    <style>
+
+      :root {
+          --hue: 290;
+          --primary-color: hsl(var(--hue), 100%, 26%);
+      }
+
+      .cls-1 {
+        font-size: 25px;
+        text-anchor: middle;
+        font-family: Arial;
+      }
+
+      .cls-2 {
+        fill: var(--primary-color:)
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="myPetz" class="cls-1" transform="translate(66.5 14.175) scale(1.547 0.728)"><tspan x="0">my<tspan class="cls-2">Petz</tspan></tspan></text>
+</svg>
